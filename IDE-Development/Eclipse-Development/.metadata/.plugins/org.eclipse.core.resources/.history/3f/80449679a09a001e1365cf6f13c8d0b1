@@ -1,0 +1,10 @@
+package excelr;
+
+public class HelloWorld 
+{
+	int id;
+	String name;
+	int age;
+	double salary;
+	boolean status;
+}
